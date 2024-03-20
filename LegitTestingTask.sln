@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegitTestingTask", "LegitTestingTask\LegitTestingTask.csproj", "{F138DC86-3B8C-4DC6-A8E9-7C6C253702FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F138DC86-3B8C-4DC6-A8E9-7C6C253702FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F138DC86-3B8C-4DC6-A8E9-7C6C253702FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F138DC86-3B8C-4DC6-A8E9-7C6C253702FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F138DC86-3B8C-4DC6-A8E9-7C6C253702FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
