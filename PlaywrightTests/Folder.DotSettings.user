@@ -1,0 +1,69 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0720ba90_002De60e_002D4f35_002Da34b_002D65b715eba0c5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.Blh&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=14f70f74_002Dde9b_002D4d7b_002D9bc4_002D3bc6df690f77/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.Blh&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=195cb3e4_002Dba29_002D49ff_002D8579_002D1751f0f12e76/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage #8" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.Blh&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2946764f_002Dbb95_002D4c91_002D8af3_002Dc04308dac298/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage #9" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.Tests.LoginTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3b5a6b65_002D9f20_002D4438_002Dad44_002De1b5ef22cd07/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.Blh&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5690fa68_002D4825_002D40d3_002D9cfd_002D872ffeac50cb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.Tests.LoginTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5a8ad358_002D3ba8_002D4539_002D9ab4_002D4cc060357e12/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.Blh&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8bc28565_002D1143_002D4c98_002Db46d_002Dec6a8367d29d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Blh" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.Blh&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b514f621_002D01d4_002D425f_002Da908_002De8f953778b49/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.LegitTests.LoginTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d2b7ee2d_002Dec1a_002D4ad5_002D8f69_002De5f93a683980/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.Blh&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e88ec787_002D2dbb_002D42b6_002Da13d_002D0a67a1a0ba6d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.Blh&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fcbb9b36_002D75e0_002D4101_002Da645_002D9238447a44c6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::62EE459B-FEF4-0BE8-0E30-158CFDB19555::net8.0::PlaywrightTests.Tests.Blh&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
