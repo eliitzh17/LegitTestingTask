@@ -19,3 +19,7 @@ CI implementations:
 in this path 'C:\Project\LegitTestingTask\.github\workflows' we have to Yaml files:
 1. playwright - CI: this file responsible to execute the tests every push to master.
 2. schedule - Nightly: this file responsible to execute the tests every night.
+
+Execution and configuration 
+In order to execute the test, just open CMD and run 'dotnet run test'
+In order to config the execution, please edit this file 'PlaywrightTests/ConfigFiles/ConfigFile.json'
