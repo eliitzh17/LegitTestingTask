@@ -9,9 +9,8 @@ on:
     branches:
       - main
       - master
-   schedule:
-    - cron: '1 * * * *'
-    
+  schedule:
+    - cron: 1 * * * *
 jobs:
   test:
     timeout-minutes: 60
