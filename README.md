@@ -25,5 +25,5 @@ in this path 'C:\Project\LegitTestingTask\.github\workflows' we have to Yaml fil
 
 Execution and configuration:
 
-In order to execute the test, just open CMD and run 'dotnet run test'
-In order to config the execution, please edit this file 'PlaywrightTests/ConfigFiles/ConfigFile.json'
+In order to execute the test, just open CMD and run 'dotnet run test'.
+In order to config the execution, please edit this file 'PlaywrightTests/ConfigFiles/ConfigFile.json'.
