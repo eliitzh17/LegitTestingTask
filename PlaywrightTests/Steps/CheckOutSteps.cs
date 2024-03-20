@@ -27,7 +27,7 @@ public class CheckOutSteps
         await page.GetByRole(AriaRole.Button, new() { Name = "Complete Checkout" }).ClickAsync();
         
         //Wait for dialog to disappear
-        Thread.Sleep(1000);            
+        Thread.Sleep(3000);            
 
         return message.Split(": ")[1];
     }
