@@ -2,7 +2,7 @@
   "HomeAddress": "https://main.d2t1pk7fjag8u6.amplifyapp.com/",
   "Username" : "cefori4606@hisotyr.com",
   "Password" : "xzC7KtLZqhk6NW2!",
-  "Headless" : false,
+  "Headless" : true,
   "SlowMotionMS" : 20,
-  "Browser" : "Firefox"
+  "Browser" : "chrome"
 }
