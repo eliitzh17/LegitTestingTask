@@ -4,7 +4,7 @@ using PlaywrightTests.Contract;
 
 namespace PlaywrightTests.Steps;
 
-public class CheckOutSteps
+public static class CheckOutSteps
 {
     public static async Task NavigateToOrders(PageTest test, IPage page)
     {

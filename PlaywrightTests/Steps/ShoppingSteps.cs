@@ -4,7 +4,7 @@ using PlaywrightTests.Contract;
 
 namespace PlaywrightTests.Steps;
 
-public class ShoppingSteps
+public static class ShoppingSteps
 {
     public static async Task NavigateToShoppingCart(PageTest test, IPage page)
     {

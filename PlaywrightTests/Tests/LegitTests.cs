@@ -1,5 +1,3 @@
-using System.Text.RegularExpressions;
-using Microsoft.Playwright;
 using PlaywrightTests.Contract;
 using PlaywrightTests.Steps;
 

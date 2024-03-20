@@ -1,9 +1,9 @@
 ﻿using Microsoft.Playwright;
 using PlaywrightTests.Contract;
 
-namespace PlaywrightTests;
+namespace PlaywrightTests.Steps;
 
-public class LoginAndRegistrationSteps
+public static class LoginAndRegistrationSteps
 {
     public static async Task Login(IPage page, Credentials credentials)
     {

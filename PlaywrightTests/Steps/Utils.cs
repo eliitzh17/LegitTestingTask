@@ -1,5 +1,4 @@
-﻿using Newtonsoft.Json;
-using PlaywrightTests.Contract;
+﻿
 using PlaywrightTests.Exceptions;
 
 namespace PlaywrightTests.Steps;
