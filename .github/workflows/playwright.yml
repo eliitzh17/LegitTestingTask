@@ -10,7 +10,7 @@ on:
       - main
       - master
   schedule:
-    - cron: 0 55 * ? * * *
+    - cron: '01 13 * * *'
 jobs:
   test:
     timeout-minutes: 60
