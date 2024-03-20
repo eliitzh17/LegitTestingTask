@@ -1,5 +1,5 @@
 ---
-name: Playwright Tests
+name: Playwright schedule Tests
 on:
   schedule:
     - cron: '04 13 * * *'
