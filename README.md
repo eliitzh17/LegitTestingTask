@@ -1,7 +1,8 @@
 This is Legit security home assigment
 
-In this assigment we need to focus on 'https://main.d2t1pk7fjag8u6.amplifyapp.com/' as shopping cart website, write full lifcecycle using my favorite tools
-So here's the tech stack: 
+In this assigment we need to focus on 'https://main.d2t1pk7fjag8u6.amplifyapp.com/' as shopping cart website, write full lifcecycle using my favorite tools.
+
+Here's the tech stack: 
 1. Programing lanugage: C#
 2. Testing mechanizem: Playwright & Nunit
 3. CI tool: GitHub
