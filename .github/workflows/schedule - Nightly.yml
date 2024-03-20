@@ -1,15 +1,16 @@
 ---
 name: Playwright schedule Tests
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '04 13 * * *'
+    - cron: '* * * * *'
     
 jobs:
   test:
     timeout-minutes: 60
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      # - uses: actions/checkout@v4
       - name: Setup dotnet
         uses: actions/setup-dotnet@v3
         with:
