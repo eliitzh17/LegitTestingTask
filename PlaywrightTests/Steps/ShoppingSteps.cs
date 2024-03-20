@@ -34,4 +34,16 @@ public class ShoppingSteps
             await test.Expect(productElement).ToContainTextAsync("Quantity: " + product.ProductQuantity);
         }
     }
+
+    public static async Task RemoveProductFromShoppingCartAndValidate(PageTest test, IPage page, List<Product> products)
+    {
+        foreach (var product in products)
+        {
+            var productElement = page.GetByText(product.ProductName);
+            await test.Expect(productElement).ToBeVisibleAsync();
+
+            await productElement.GetByText("Remove").ClickAsync();
+            await test.Expect(productElement).Not.ToBeVisibleAsync();
+        }
+    }
 }
